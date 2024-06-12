@@ -1,40 +1,22 @@
 # Endo-Ducksitic
 In a world filled with Parasites that infected the whole Duck population in Ducklus, you, as a young duck soldier named Marcus, has to traverse through the darkness of
-the facility of where the Parasite spread. A
+the facility of where the Parasite spread. All your teamates have been abducted or killed, and you are the last person to Explore and kill any Parasites that lurk within the facility.
 
-
-The game follows a mix-up between Airport Scanner (IOS) and Magic Touch : Wizard For
-Hire (Android). The theme follows a cat world with the player playing as a Security Officer
-called Matt, a newly recruited feline tasked with scanning the luggages.
-
-## Overview
-In this game, players navigate through a menu featuring start, settings, and
-leaderboard buttons. The synopsis introduces a world where cats possess items immune to
-scanning, necessitating novel scanning technology. 
-
-Gameplay involves a conveyor belt presenting items for scanning, with players controlling the synthesis of drawings to
-eliminate them. 
-
-As an endless game, winning is defined by achieving a high score and
-securing a place on the leaderboard, with gameplay continuing until all player health points
-are lost
+## Objective
+The objective in the game is to kill every Parasite in each level using the movement control given.
 
 ## User Manual
-- ### Installation: 
-  Simply download the game files and launch Unity 2022.3.17f1
-  Or
-  Download the Cat Scan apk in the code files into mobile, and download the apk package. Requires Android 11 or later.
-  
-- ### Controls
-Use Fingers to draw the shape to match the corresponding shape being attached to the items
-
+- ### Installation:
+  Clone the repository and install Gdevelop. The version of Gdevelop used is This version of GDevelop is: 5.3.187. Then, open the file by selecting the game.json file.
+  Or you can play the game from this link : [https://gd.games/lutfiizzat/neo-ducksitic](https://gd.games/lutfiizzat/neo-ducksitic) (not recommended, the game stutters and
+  the controls are a tad janky from here.
 
 ## Acknowledgement
-We would like to thank our lecturer, Mr Albert for his guidance and support throughout the development of this project.
+The idea is inspired upon a game called Endoparasitic. A lot of thanks to William for the guidance given.
 
         
 ## Video Demo and Screenshots
-Watch Video Demo on YouTube: [https://youtu.be/4MH501NE3_c](https://youtu.be/4MH501NE3_c)
+Watch Video Demo on YouTube: [https://youtu.be/qa82ZTrfXAk](https://youtu.be/qa82ZTrfXAk)
 <table>
   <tr>
     <td><img src="demo/Start_Screen.png" alt="Start Screen"></td>
