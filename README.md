@@ -8,7 +8,10 @@ The objective in the game is to kill every Parasite in each level using the move
 ## User Manual
 - ### Installation:
   Clone the repository and install Gdevelop. The version of Gdevelop used is This version of GDevelop is: 5.3.187. Then, open the file by selecting the game.json file.
-  Or you can play the game from this link : [https://gd.games/lutfiizzat/neo-ducksitic](https://gd.games/lutfiizzat/neo-ducksitic) (not recommended, the game stutters and
+
+  Or you can play the game from this link :
+
+  [https://gd.games/lutfiizzat/neo-ducksitic](https://gd.games/lutfiizzat/neo-ducksitic) (not recommended, the game stutters and
   the controls are a tad janky from here.
 
 ## Acknowledgement
